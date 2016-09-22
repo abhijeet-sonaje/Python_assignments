@@ -1,0 +1,27 @@
+<accounts>
+    <account id="1">
+        <acc_no>422009</acc_no>
+        <name>'Tom'</name>
+        <balance>25000</balance>
+    </account>
+    <account id="2">
+        <acc_no>411058</acc_no>
+        <name>'Jerry'</name>
+        <balance>3000.0</balance>
+    </account>
+    <account id="3">
+        <acc_no>422000</acc_no>
+        <name>'Bob'</name>
+        <balance>45000</balance>
+    </account>
+    <account id="4">
+        <acc_no>400008</acc_no>
+        <name>'Builder'</name>
+        <balance>4200.0</balance>
+    </account>
+    <account id="5">
+        <acc_no>422221</acc_no>
+        <name>'Ram'</name>
+        <balance>6000.0</balance>
+    </account>
+</accounts>
