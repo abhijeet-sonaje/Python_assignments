@@ -161,7 +161,7 @@ def adduser():
         if(chatroom.get(uname) == None):
             print('User is not present in chatroom')
         else:
-            if users.get(uname) != None:
+            if users.get(uname) == None:
                 users[uname] = password
                 #print(users)
                 print('User added successfully.')
